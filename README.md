@@ -25,7 +25,7 @@ Authentication of user using NodeJs, Express, Passport, Mongoose, EJS and some o
 3. Visit the app: http://localhost:3000
 
 
-
+![userauthentication](https://github.com/shakshishar/nodejs_Authentication/assets/139610476/f11fd20c-3086-40f1-b899-51cc2294a038)
 
 
 
